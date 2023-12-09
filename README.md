@@ -1,4 +1,5 @@
-#QR-CODE-DESIGN---HTML-CSS
+<!-- @format -->
+# QR-CODE-DESIGN---HTML-CSS
 
 Hello there👋,
 
